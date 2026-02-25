@@ -312,3 +312,6 @@ html.fixedtopnav {
 	text-align: justify;
 }
 
+.card-custom {
+  max-width: 333.333px;
+}
